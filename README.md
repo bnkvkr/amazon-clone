@@ -13,6 +13,3 @@ This project was built with React JS and Firebase.
 
 https://amazon-clone-vishal.netlify.app/
 
-## Inspiration -
-
-Build Amazon Clone w/ Full E-Commerce + Stripe using React JS for Beginners By CleverProgrammer.
